@@ -13,24 +13,25 @@ if page.status_code != 200:
     print('Can not retrieve the requested url %s', URL)
     exit(1)
 
+#parse the content of the webpage
 soup = BeautifulSoup(page.content,'html.parser')
 
 #separate the comments fromt the other html element
 comments = soup.find_all('div', class_ ='change-set')
 
+# find all the comments with activity tag
 for i in comments:
-    chng = i.find('div',class_ ='activity')
-
-    if chng is None:
+    activity_tag = i.find('div',class_ ='activity')
+    if activity_tag is None:
         continue
     else:
-        pre = i.find('pre', class_='comment-text')
-        changeset = chng.find_all('div', class_ = 'change')
-        for j in changeset:
-            ser = j.text.strip()
-            pat = re.compile("Resolution: --- → FIXED")
-            if pat.search(ser):
-                links = pre.find_all('a')
+        pre_tag = i.find('pre', class_='comment-text')
+        changeset_tag = activity_tag.find_all('div', class_ = 'change')
+        for j in changeset_tag:
+            main_text = j.text.strip()
+            patter = re.compile("Resolution: --- → FIXED")
+            if patter.search(main_text):
+                links = pre_tag.find_all('a')
                 #print(pre)
                 for z in links:
                     print(z.text.strip())
