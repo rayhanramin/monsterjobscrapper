@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 import pprint
 
 #a sample web link from the bugzilla website(A list of bugs for firefox is available in our github repo.)
-URL = "https://bugzilla.mozilla.org/show_bug.cgi?id=1000185"
+URL = "https://bugzilla.mozilla.org/show_bug.cgi?id=1002340"
 
 page = requests.get(URL)
 #pprint.pprint(page.content)
