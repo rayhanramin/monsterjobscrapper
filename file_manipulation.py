@@ -12,7 +12,7 @@ csv_writer.writerow(['Bug_id', 'Fixing_commit_url'])
 URL = "https://bugzilla.mozilla.org/show_bug.cgi?id="
 
 # open file for reading the bug ids for mozilla firefox
-with open('dummy_bug_ids.txt','r') as re_file:
+with open('firefox-bug_ids.txt','r') as re_file:
     for bug_ids in re_file:
         bug_ids = bug_ids.strip('\n')
         new_url = URL + str(bug_ids)
