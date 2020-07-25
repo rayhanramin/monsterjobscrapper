@@ -14,7 +14,7 @@ Bug_id,Fixing_commit_url
 1009675,https://hg.mozilla.org/mozilla-central/rev/72961f73cb4a
 1009952,https://hg.mozilla.org/mozilla-central/rev/57b0932e2f06
 1011007,https://hg.mozilla.org/mozilla-central/rev/57b0932e2f06
-1011354,https://hg.mozilla.org/mozilla-central/rev/d28403874a12
+1011354,https://crash-stats.mozilla.com/report/list?signature=mozilla%3A%3Anet%3A%3AnsHttpChannel%3A%3AOnStopRequest%28nsIRequest*%2C+nsISupports*%2C+tag_nsresult%29&product=Firefox&query_type=contains&range_unit=weeks&process_type=any&hang_type=any&date=2014-09-25+09%3A00%3A00&range_value=1#tab-reports
 1011859,https://hg.mozilla.org/releases/mozilla-aurora/rev/363d6de09201
 1011859,https://hg.mozilla.org/releases/mozilla-beta/rev/0bcc74404878
 1012609,https://hg.mozilla.org/mozilla-central/rev/fce56d505b2e
@@ -64,7 +64,6 @@ Bug_id,Fixing_commit_url
 1022945,https://hg.mozilla.org/mozilla-central/rev/46ae9099fd00
 1023035,https://hg.mozilla.org/mozilla-central/rev/000b317ce64f
 1023121,https://hg.mozilla.org/mozilla-central/rev/034d1469b083
-1023158,comment 6
 1023158,bug 1013001
 1024765,https://hg.mozilla.org/mozilla-central/rev/2210c3fbcf63
 1024765,https://hg.mozilla.org/mozilla-central/rev/0c09da2ef546
@@ -181,7 +180,6 @@ Bug_id,Fixing_commit_url
 1100409,https://hg.mozilla.org/mozilla-central/rev/bbe24bcf277e
 1100409,https://hg.mozilla.org/mozilla-central/rev/874e07bec1cc
 1105045,https://hg.mozilla.org/mozilla-central/rev/dc21224de25b
-1105914,comment 12
 1107009,https://hg.mozilla.org/mozilla-central/rev/1ba6070d3f51
 1107011,https://hg.mozilla.org/mozilla-central/rev/fb1f0c400ec0
 1108455,https://hg.mozilla.org/mozilla-central/rev/d77fe45d2ab5
@@ -318,12 +316,9 @@ Bug_id,Fixing_commit_url
 1155474,https://hg.mozilla.org/mozilla-central/rev/81ed40faade8
 1155985,https://hg.mozilla.org/mozilla-central/rev/3ba8d6cc53c0
 1156861,https://hg.mozilla.org/mozilla-central/rev/29a9acde728e
-1158489,Comment 36
-1158489,Comment 18
 1158489,bug 1211568
 1159321,https://hg.mozilla.org/releases/mozilla-aurora/rev/e1f8abe63e21
 1159973,https://hg.mozilla.org/mozilla-central/rev/de4736293b6a
-1160884,comment #40
 1160890,https://hg.mozilla.org/mozilla-central/rev/22e8c5440405
 1160890,https://hg.mozilla.org/mozilla-central/rev/37c0bb092ec2
 1161063,https://hg.mozilla.org/mozilla-central/rev/be976c7cb4b1
@@ -381,7 +376,6 @@ Bug_id,Fixing_commit_url
 1181204,https://hg.mozilla.org/mozilla-central/rev/df3aedb6cd49
 1181651,https://hg.mozilla.org/mozilla-central/rev/6e758736c0c6
 1182711,https://hg.mozilla.org/mozilla-central/rev/f083fd25e8fa
-1182723,comment #7
 1182723,https://hg.mozilla.org/integration/mozilla-inbound/rev/bcf65c04b69c
 1182723,https://hg.mozilla.org/mozilla-central/rev/bcf65c04b69c
 1182778,https://hg.mozilla.org/mozilla-central/rev/c3df6435ad5e
@@ -578,7 +572,6 @@ Bug_id,Fixing_commit_url
 1230668,https://hg.mozilla.org/mozilla-central/rev/e0603b355f0c
 1230686,https://hg.mozilla.org/mozilla-central/rev/f93defa8ee9a
 1230768,https://hg.mozilla.org/mozilla-central/rev/2ebbf6197fea
-1231121,comment 10
 1231919,https://hg.mozilla.org/mozilla-central/rev/a88ff27e1aa9
 1232069,https://hg.mozilla.org/mozilla-central/rev/2a57c0a0cf19
 1233152,https://hg.mozilla.org/mozilla-central/rev/27b9d60e819c
@@ -611,8 +604,6 @@ Bug_id,Fixing_commit_url
 1241034,https://hg.mozilla.org/projects/nss/rev/5fde729fdbff
 1241037,https://hg.mozilla.org/projects/nss/rev/329932eb1700
 1241217,bug 1241651
-1241731,comment 11
-1241731,comment 12
 1241896,https://hg.mozilla.org/mozilla-central/rev/f8cd81f16a73
 1242668,https://hg.mozilla.org/mozilla-central/rev/9f5b6cd206c6
 1242798,https://hg.mozilla.org/mozilla-central/rev/52cedeb87301
@@ -763,7 +754,6 @@ Bug_id,Fixing_commit_url
 1286183,https://hg.mozilla.org/mozilla-central/rev/0a961f12af55
 1286911,https://hg.mozilla.org/mozilla-central/rev/607f7f0e140a
 1287204,https://hg.mozilla.org/mozilla-central/rev/6e875e1462fc
-1287266,comment #8
 1287266,https://hg.mozilla.org/integration/mozilla-inbound/rev/311e127edfff
 1287266,https://hg.mozilla.org/mozilla-central/rev/311e127edfff
 1287316,https://hg.mozilla.org/mozilla-central/rev/e0acf6746962
@@ -785,7 +775,6 @@ Bug_id,Fixing_commit_url
 1289970,https://hg.mozilla.org/mozilla-central/rev/534dc4b44b1a
 1290244,https://hg.mozilla.org/releases/mozilla-beta/rev/fe99dea1a20d
 1291016,https://hg.mozilla.org/mozilla-central/rev/32695cf85668
-1291016,comment 19
 1291016,https://hg.mozilla.org/integration/mozilla-inbound/rev/b8f86b1baa2d095862cab288ede231db4c37544c
 1291665,https://hg.mozilla.org/mozilla-central/rev/3f9686fc43a6
 1292159,https://hg.mozilla.org/mozilla-central/rev/987d4f3854da
@@ -850,7 +839,6 @@ Bug_id,Fixing_commit_url
 1303127,https://archive.mozilla.org/pub/firefox/candidates/45.4.0esr-candidates/build1/
 1303127,bug 1285849
 1303127,bug 1303370
-1303127,bug 1303371 comment 4
 1303127,bug 1303371
 1303127,bug 1303418
 1303127,bug 1303183
@@ -873,7 +861,6 @@ Bug_id,Fixing_commit_url
 1307458,https://hg.mozilla.org/releases/mozilla-aurora/rev/295f6ec43e36
 1307458,https://hg.mozilla.org/releases/mozilla-beta/rev/9b01b6d9151d
 1307557,https://hg.mozilla.org/mozilla-central/rev/5cd71fa73ba0(In
-1307557,comment #9
 1307557,https://hg.mozilla.org/integration/mozilla-inbound/rev/5cd71fa73ba0
 1308036,https://hg.mozilla.org/mozilla-central/rev/49bf7e023d0d
 1308048,https://hg.mozilla.org/mozilla-central/rev/bb5040568cfb
@@ -882,18 +869,13 @@ Bug_id,Fixing_commit_url
 1308688,https://hg.mozilla.org/mozilla-central/rev/dfb42f181ef9
 1308688,https://hg.mozilla.org/mozilla-central/rev/72ff2080ca12
 1308922,https://hg.mozilla.org/mozilla-central/rev/5c090f599828
-1309198,comment 17
 1309310,https://hg.mozilla.org/mozilla-central/rev/fb5ae665310e
 1309310,https://hg.mozilla.org/mozilla-central/rev/385cf64debf7
 1309720,https://hg.mozilla.org/mozilla-central/rev/63d0a40426ec
 1309823,https://hg.mozilla.org/mozilla-central/rev/e62579becf83
 1309834,https://hg.mozilla.org/mozilla-central/rev/8704571a427f
 1310183,https://hg.mozilla.org/releases/mozilla-release/rev/7356baae8e736a6c9444bdd21562df806a39766b
-1310183,comment #16
-1310183,comment #1
-1310183,comment 0
 1310183,bug 1275898
-1310183,comment #10
 1311319,https://hg.mozilla.org/mozilla-central/rev/1be47494e723
 1311319,https://hg.mozilla.org/mozilla-central/rev/5cd94a51349c
 1311319,https://hg.mozilla.org/mozilla-central/rev/4c77ff67311d
@@ -978,7 +960,6 @@ Bug_id,Fixing_commit_url
 1328121,https://hg.mozilla.org/mozilla-central/rev/cd03cacfcddd
 1328251,https://hg.mozilla.org/mozilla-central/rev/ce8ca07638c1
 1328323,bug 1329849
-1328323,comment 2
 1328642,https://hg.mozilla.org/mozilla-central/rev/c6e104aef85f
 1328762,https://hg.mozilla.org/releases/mozilla-release/rev/d764f41b23b8
 1328762,https://hg.mozilla.org/releases/mozilla-esr52/rev/bd4fcdee9a06
@@ -1140,23 +1121,16 @@ Bug_id,Fixing_commit_url
 1354443,https://hg.mozilla.org/mozilla-central/rev/82bc09e9f191
 1354853,https://hg.mozilla.org/mozilla-central/rev/e953db6c88cc
 1355039,https://hg.mozilla.org/mozilla-central/rev/33e3bd0474b9
-1355174,comment #10
-1355174,comment #11
 1355174,bug 1349310
 1356025,https://hg.mozilla.org/mozilla-central/rev/cd5ae949a6b9
 1356558,https://hg.mozilla.org/mozilla-central/rev/5743fb35b0e0
 1356596,https://hg.mozilla.org/mozilla-central/rev/b3fb981d0e10
-1356607,comment #10
 1356824,https://hg.mozilla.org/mozilla-central/rev/665f1887a112
 1357090,https://hg.mozilla.org/mozilla-central/rev/a5d0d5775aec
 1357462,https://hg.mozilla.org/mozilla-central/rev/27114f4cd6e7
-1358009,comment 38
-1358009,comment 41
 1358248,https://hg.mozilla.org/mozilla-central/rev/5e426eaa0546
 1358248,https://hg.mozilla.org/mozilla-central/rev/3de9541d9510
 1358248,https://hg.mozilla.org/mozilla-central/rev/9a806ddbcfc6
-1358551,comment #3
-1358551,comment #4
 1358551,bug 1349310
 1359547,https://hg.mozilla.org/mozilla-central/rev/f7b5de7bd5c7
 1359639,https://hg.mozilla.org/mozilla-central/rev/550c4bd5695a
@@ -1187,7 +1161,6 @@ Bug_id,Fixing_commit_url
 1363723,https://hg.mozilla.org/mozilla-central/rev/a5d58cfbab42
 1364283,https://hg.mozilla.org/mozilla-central/rev/fa4c7abccb77
 1364399,https://hg.mozilla.org/mozilla-central/rev/388ffddeb462
-1364399,comment 26
 1365189,https://hg.mozilla.org/mozilla-central/rev/af94bc2592d1
 1365602,https://hg.mozilla.org/mozilla-central/rev/7828515b45be
 1365875,https://hg.mozilla.org/mozilla-central/rev/0069f96e7711
@@ -1315,7 +1288,6 @@ Bug_id,Fixing_commit_url
 1392955,https://hg.mozilla.org/mozilla-central/rev/45b70e8a557b
 1393367,https://hg.mozilla.org/mozilla-central/rev/1908cd8ed88d
 1393624,https://hg.mozilla.org/mozilla-central/rev/a87b382c2135
-1393840,comment 6
 1393840,bug 1343147
 1393840,bug 1299715
 1394031,https://hg.mozilla.org/mozilla-central/rev/9cb5d9d656d2
@@ -1341,9 +1313,6 @@ Bug_id,Fixing_commit_url
 1399540,https://hg.mozilla.org/mozilla-central/rev/42b73bde7b4f
 1399540,https://hg.mozilla.org/mozilla-central/rev/8e697bb08031
 1399922,https://hg.mozilla.org/mozilla-central/rev/b030607a3ddb
-1399922,comment 2
-1399922,comment 0
-1399922,comment 2
 1400003,https://hg.mozilla.org/mozilla-central/rev/6ad5b916c965
 1400563,https://hg.mozilla.org/mozilla-central/rev/955cbee8d3d7
 1400763,https://hg.mozilla.org/releases/mozilla-esr52/rev/de336078d36b0f6f88b0fc566a1e4132f54a78e1
@@ -1557,7 +1526,6 @@ Bug_id,Fixing_commit_url
 1432856,https://hg.mozilla.org/mozilla-central/rev/a03b869d45a9
 1432870,https://hg.mozilla.org/mozilla-central/rev/54491805113a
 1433005,https://hg.mozilla.org/releases/mozilla-beta/rev/90ae99509f1e
-1433502,comment #14
 1433502,bug 1460381
 1433609,https://hg.mozilla.org/mozilla-central/rev/d0da2be2c950
 1433671,https://hg.mozilla.org/mozilla-central/rev/8e42b66f4656
@@ -1582,7 +1550,6 @@ Bug_id,Fixing_commit_url
 1436983,https://hg.mozilla.org/mozilla-central/rev/39b39fc61d53
 1437450,https://hg.mozilla.org/mozilla-central/rev/61b461277369
 1437455,https://hg.mozilla.org/mozilla-central/rev/4c96fc4ec2b0(In
-1437455,comment #10
 1437507,https://hg.mozilla.org/mozilla-central/rev/ca6b74831ec3
 1437842,https://hg.mozilla.org/mozilla-central/rev/3574187cbf66
 1437842,https://hg.mozilla.org/mozilla-central/rev/427ef5c6a478
@@ -1609,8 +1576,6 @@ Bug_id,Fixing_commit_url
 1438671,https://hg.mozilla.org/mozilla-central/rev/bbacf34b38b9
 1438671,https://hg.mozilla.org/mozilla-central/rev/e63436b2efb3
 1438827,https://hg.mozilla.org/mozilla-central/rev/f9ec9a7399fa
-1439655,comment #10
-1439655,comment #7
 1439655,bug 1436117
 1439723,https://hg.mozilla.org/integration/mozilla-inbound/rev/ba9e245003684320d69b47e44dda7b58a919a054
 1439723,https://hg.mozilla.org/mozilla-central/rev/ba9e24500368
@@ -1645,8 +1610,6 @@ Bug_id,Fixing_commit_url
 1446365,https://hg.mozilla.org/releases/mozilla-release/rev/edcc878881482a30db0710c167f090819fa6c0f0
 1446365,https://hg.mozilla.org/releases/mozilla-esr52/rev/5cd5586a2f48424a9031a3fa4c782954a9df9a52
 1447080,https://hg.mozilla.org/mozilla-central/rev/56bfd2178dca
-1447087,comment #11
-1447087,comment #10
 1447969,https://hg.mozilla.org/releases/mozilla-beta/rev/2bb8a74aa36cfb0430bfdab09adb7fcce0dab1c7
 1447989,https://hg.mozilla.org/mozilla-central/rev/a466495618d0
 1448305,https://hg.mozilla.org/integration/mozilla-inbound/rev/43a2010067721dc68eef1e71a7d1d6fd9fafcc45
@@ -1791,7 +1754,6 @@ Bug_id,Fixing_commit_url
 1481093,https://hg.mozilla.org/mozilla-central/rev/ec59471499f1
 1481745,https://hg.mozilla.org/integration/mozilla-inbound/rev/4ba7d42459f512ac30bbfb8ed391a6607e99d4e8
 1481745,https://hg.mozilla.org/mozilla-central/rev/4ba7d42459f5
-1481844,comment #21
 1482122,bug 1476250
 1483120,https://hg.mozilla.org/mozilla-central/rev/54934de382c5
 1483510,https://www.websocket.org/echo.html
@@ -1812,7 +1774,6 @@ Bug_id,Fixing_commit_url
 1487478,https://hg.mozilla.org/mozilla-central/rev/d2fa56922a47
 1487964,https://hg.mozilla.org/mozilla-central/rev/395b95afd795
 1487964,https://hg.mozilla.org/mozilla-central/rev/08c81bf21758
-1487964,comment 46
 1487964,https://hg.mozilla.org/mozilla-central/rev/78665669bade
 1488061,https://hg.mozilla.org/mozilla-central/rev/e414fcdabb72
 1488180,bug 1393570
@@ -1857,7 +1818,6 @@ Bug_id,Fixing_commit_url
 1500064,https://hg.mozilla.org/mozilla-central/rev/7141a7da1020
 1500310,https://hg.mozilla.org/mozilla-central/rev/91edec50a1cf
 1500759,https://hg.mozilla.org/mozilla-central/rev/e721c3e314bd
-1501152,comment 31
 1501482,https://hg.mozilla.org/integration/mozilla-inbound/rev/6c28ad7f98a7629f5a1b2f123aaad66f1f6233f0
 1501482,https://hg.mozilla.org/mozilla-central/rev/6c28ad7f98a7
 1502013,https://hg.mozilla.org/mozilla-central/rev/8d762aaeb571
@@ -2115,7 +2075,6 @@ Bug_id,Fixing_commit_url
 1552632,https://hg.mozilla.org/mozilla-central/rev/fb1fcbfac02a
 1552993,https://hg.mozilla.org/integration/autoland/rev/0ab7cdd094046de37787bc0b7dc68d9f2db5a8b9
 1552993,https://hg.mozilla.org/mozilla-central/rev/0ab7cdd09404
-1554110,comment #36
 1554110,bug 1618911
 1555523,https://hg.mozilla.org/integration/autoland/rev/345ababc2c6c16153e0f220364ea27ffe95228bf
 1555523,https://hg.mozilla.org/mozilla-central/rev/345ababc2c6c
@@ -2338,6 +2297,8 @@ Bug_id,Fixing_commit_url
 1626728,https://hg.mozilla.org/releases/mozilla-release/rev/63afe468c6a580c6c01623fd60c8393fc2c2a4e0
 1626728,https://hg.mozilla.org/releases/mozilla-esr68/rev/3353f680e068e3a5c21263a909382557c6bb4397
 1626728,https://hg.mozilla.org/releases/mozilla-esr68/rev/34be991778717f46f759eed8f85233bfa8032a8b
+1634738,https://hg.mozilla.org/integration/autoland/rev/d8ebfbf2c0fc852a21be6390455cf16d53705d7b
+1634738,https://hg.mozilla.org/mozilla-central/rev/d8ebfbf2c0fc
 1637682,https://hg.mozilla.org/mozilla-central/rev/99ddf2c70b4f
 406541,https://hg.mozilla.org/mozilla-central/rev/1e4675fb8fc9
 406541,https://hg.mozilla.org/mozilla-central/rev/9eafe94ea972
@@ -2366,7 +2327,6 @@ Bug_id,Fixing_commit_url
 623791,bug 649233
 624187,http://hg.mozilla.org/mozilla-central/rev/e23b4fe4e09c
 624621,https://hg.mozilla.org/mozilla-central/rev/ab1bb6660d5c
-624621,comment 65
 626262,http://hg.mozilla.org/mozilla-central/rev/12ea0bd80e2e
 626775,bug 611553
 627295,bug 889736
@@ -2385,13 +2345,11 @@ Bug_id,Fixing_commit_url
 635977,http://hg.mozilla.org/mozilla-central/rev/a8e0f63f173f
 637621,http://hg.mozilla.org/mozilla-central/rev/ab7fd603bb9d
 637957,bug 638123
-637957,comment 10
 637957,http://hg.mozilla.org/mozilla-central/rev/290403971149
 638018,bug 524921
 638018,http://hg.mozilla.org/releases/mozilla-1.9.2/rev/b55ede4eaf22
 638236,http://hg.mozilla.org/mozilla-central/rev/f76fac273005
 639303,bug 656351
-639303,comment 36
 639303,http://hg.mozilla.org/mozilla-central/rev/86849e5fb7ca
 639343,http://hg.mozilla.org/mozilla-central/rev/5cbe7fd88614
 639648,http://hg.mozilla.org/releases/mozilla-aurora/rev/0302a2047cac
@@ -2416,7 +2374,6 @@ Bug_id,Fixing_commit_url
 645289,http://hg.mozilla.org/mozilla-central/rev/1b56b31b790f
 645565,http://hg.mozilla.org/releases/mozilla-2.0/rev/fe85a4b7e1ca
 645565,http://hg.mozilla.org/mozilla-central/rev/5c1d236f0d5f
-645572,comment #31
 645572,bug 650445
 645699,http://hg.mozilla.org/mozilla-central/rev/3578f5b22f6b
 646662,bug 650493
@@ -2431,15 +2388,8 @@ Bug_id,Fixing_commit_url
 649079,https://hg.mozilla.org/mozilla-central/rev/0e56baae8d1d
 650001,http://hg.mozilla.org/mozilla-central/rev/7299264c5204
 650275,bug 650273
-650732,Comment 40
-652054,comment #41
-652054,comment #0
 652054,http://chrysaora.com/
-652054,comment 0
-652054,comment 6
-652054,comment 8
 652401,http://hg.mozilla.org/mozilla-central/rev/285a5ec88501
-653926,comment 17
 654015,http://hg.mozilla.org/mozilla-central/rev/2f53d4782ce3
 654015,http://hg.mozilla.org/mozilla-central/rev/2f4c320b5c33
 655098,http://hg.mozilla.org/mozilla-central/rev/49e57fa259dc
@@ -2451,8 +2401,6 @@ Bug_id,Fixing_commit_url
 655660,http://hg.mozilla.org/mozilla-central/rev/a042d0d4c792
 655742,http://hg.mozilla.org/releases/mozilla-1.9.1/rev/ed572ce324ba
 655742,http://hg.mozilla.org/releases/mozilla-1.9.2/rev/482ea18e79aa
-655836,comment 31
-655836,comment 37
 655987,Bug 656277
 655987,bug 662599
 656277,bug 662599
@@ -2523,7 +2471,6 @@ Bug_id,Fixing_commit_url
 679588,https://hg.mozilla.org/mozilla-central/rev/86dc0aadfbb5
 679593,http://hg.mozilla.org/mozilla-central/rev/c8eea83232b2
 679986,https://hg.mozilla.org/mozilla-central/rev/ad6b14835247
-679986,comment #21
 680456,https://hg.mozilla.org/mozilla-central/rev/4d8f729aa1aa
 680687,http://hg.mozilla.org/mozilla-central/rev/071d9c997f3d
 680840,http://hg.mozilla.org/mozilla-central/rev/e5c2f6587160
@@ -2536,11 +2483,9 @@ Bug_id,Fixing_commit_url
 684882,http://hg.mozilla.org/mozilla-central/rev/c561909d40af
 684938,https://hg.mozilla.org/mozilla-central/rev/e8e8396802f2
 685186,https://hg.mozilla.org/mozilla-central/rev/617182196237
-685321,comment 7
 686044,https://hg.mozilla.org/mozilla-central/rev/6806beccdeaf
 686107,https://hg.mozilla.org/mozilla-central/rev/7277c1bddd22
 687745,bug 737307
-687745,comment 34
 687745,bug 737307
 688208,https://hg.mozilla.org/mozilla-central/rev/d10af1d1d985
 688208,https://hg.mozilla.org/mozilla-central/rev/d34c48393e3b
@@ -2571,8 +2516,6 @@ Bug_id,Fixing_commit_url
 705651,https://hg.mozilla.org/mozilla-central/rev/5ce8d4e02e81
 705855,https://hg.mozilla.org/mozilla-central/rev/6bafbaa9ac33
 707051,https://hg.mozilla.org/mozilla-central/rev/d91ce1c668e7
-708186,comment #9
-708186,comment #8
 708186,bug 602759
 708186,bug 602759
 708198,https://hg.mozilla.org/mozilla-central/rev/7a6b3a3c0a92
@@ -2594,19 +2537,16 @@ Bug_id,Fixing_commit_url
 715662,https://hg.mozilla.org/mozilla-central/rev/6c3cea75e5ba
 716067,https://hg.mozilla.org/mozilla-central/rev/8246358d235f
 716556,https://hg.mozilla.org/mozilla-central/rev/e0e35faac08c
-717488,comment #19
 717488,bug 744102
 717511,http://hg.mozilla.org/mozilla-central/rev/f3bcb3c7e5d8
 718202,https://hg.mozilla.org/mozilla-central/rev/be734df2dcab
 718203,http://hg.mozilla.org/mozilla-central/rev/4c58bb4638a4
-718203,comment 25
 718290,https://hg.mozilla.org/mozilla-central/rev/dd9f0911976b
 718516,bug 733640
 718573,https://hg.mozilla.org/mozilla-central/rev/24b776d91fdb
 719612,https://hg.mozilla.org/mozilla-central/rev/a4d83f2fb3f2
 719994,bug 723808
 720079,https://hg.mozilla.org/releases/mozilla-aurora/rev/1a931c313611
-720103,comment #16
 720103,https://hg.mozilla.org/integration/mozilla-inbound/rev/1aeba59aa111
 720103,https://hg.mozilla.org/mozilla-central/rev/1aeba59aa111
 720305,https://hg.mozilla.org/mozilla-central/rev/8085a3fff93c
@@ -2623,7 +2563,6 @@ Bug_id,Fixing_commit_url
 724599,https://hg.mozilla.org/mozilla-central/rev/93f86e0dd442
 725499,https://hg.mozilla.org/mozilla-central/rev/498d2784a240
 725611,neil@parkwaycc.co.uk
-725611,comment #3
 725611,bug 740295
 725770,https://hg.mozilla.org/mozilla-central/rev/74649a7a17c8
 726264,https://hg.mozilla.org/mozilla-central/rev/6bcea3a628d8
@@ -2665,7 +2604,6 @@ Bug_id,Fixing_commit_url
 734076,https://hg.mozilla.org/mozilla-central/rev/78e5d85cb6ac
 735943,https://hg.mozilla.org/mozilla-central/rev/75f461e05221
 736012,https://hg.mozilla.org/mozilla-central/rev/a2128894e47f
-736589,comment #15
 736589,attachment 609555
 736589,[details]
 736589,[diff]
@@ -2676,7 +2614,6 @@ Bug_id,Fixing_commit_url
 737182,https://hg.mozilla.org/mozilla-central/rev/7474b9e08e0d
 737307,https://hg.mozilla.org/mozilla-central/rev/6a2c57fa8edf
 737307,https://hg.mozilla.org/mozilla-central/rev/34526f45d863
-737307,comment #45
 737307,https://hg.mozilla.org/integration/mozilla-inbound/rev/612fd2e764fd
 737307,https://hg.mozilla.org/mozilla-central/rev/612fd2e764fd
 737384,https://hg.mozilla.org/mozilla-central/rev/4f5d0ac5f3a6
@@ -2710,7 +2647,6 @@ Bug_id,Fixing_commit_url
 750096,https://hg.mozilla.org/mozilla-central/rev/c233e8733ba3
 750109,https://hg.mozilla.org/mozilla-central/rev/6e9d62160729
 750575,https://hg.mozilla.org/mozilla-central/rev/5581c3b2a95c
-750575,Comment 22
 750820,https://hg.mozilla.org/mozilla-central/rev/1d8494a681e3
 750850,http://hg.mozilla.org/mozilla-central/rev/06f397d1f997
 750932,https://hg.mozilla.org/mozilla-central/rev/3a10f2f0401a
@@ -2738,7 +2674,6 @@ Bug_id,Fixing_commit_url
 756581,https://hg.mozilla.org/mozilla-central/rev/24fd5fefb4f2
 756581,https://hg.mozilla.org/mozilla-central/rev/b6e705adb98a
 756600,https://hg.mozilla.org/mozilla-central/rev/cb27363cfba1
-756719,comment 5
 757128,bug 758696
 757376,https://hg.mozilla.org/mozilla-central/rev/1b34d689a6ba
 757431,https://hg.mozilla.org/mozilla-central/rev/a79fe8932e3f
@@ -2754,7 +2689,6 @@ Bug_id,Fixing_commit_url
 761667,https://hg.mozilla.org/mozilla-central/rev/e5f8c65894da
 761831,https://hg.mozilla.org/mozilla-central/rev/b42e44601363
 762280,https://hg.mozilla.org/mozilla-central/rev/170854ffe163
-762920,bug 754202 comment 41
 763225,https://hg.mozilla.org/mozilla-central/rev/5674051c17d7
 765139,https://hg.mozilla.org/mozilla-central/rev/5b77d71ed927
 765179,https://hg.mozilla.org/mozilla-central/rev/cbe259c0ba18
@@ -2801,7 +2735,6 @@ Bug_id,Fixing_commit_url
 771994,https://hg.mozilla.org/mozilla-central/rev/a67b71ac0ba7
 772282,https://hg.mozilla.org/mozilla-central/rev/26b9d20710ea
 772346,https://hg.mozilla.org/mozilla-central/rev/32b6c83aeac5
-773097,comment #60
 773097,https://hg.mozilla.org/integration/mozilla-inbound/rev/ccbcf3438328
 773097,https://hg.mozilla.org/mozilla-central/rev/ccbcf3438328
 774548,https://hg.mozilla.org/mozilla-central/rev/0842d651cfa8
@@ -2824,7 +2757,6 @@ Bug_id,Fixing_commit_url
 777578,https://hg.mozilla.org/mozilla-central/rev/90c5ff78ac36
 777806,https://hg.mozilla.org/mozilla-central/rev/7eb691b3ef12
 778428,https://hg.mozilla.org/mozilla-central/rev/4683a522952d
-778582,comment #53
 778582,http://hg.mozilla.org/integration/mozilla-inbound/rev/950379788e33
 778582,http://hg.mozilla.org/integration/mozilla-inbound/rev/e106316f41e4
 778582,http://hg.mozilla.org/integration/mozilla-inbound/rev/726f7f71fd45
@@ -2839,12 +2771,10 @@ Bug_id,Fixing_commit_url
 778765,https://hg.mozilla.org/mozilla-central/rev/0d1da7c6afd5
 779413,https://hg.mozilla.org/mozilla-central/rev/90b41051251c
 779849,https://hg.mozilla.org/mozilla-central/rev/4f774268e674
-780370,comment #12
 780370,https://hg.mozilla.org/integration/mozilla-inbound/rev/20a3b0eeb776
 780370,https://hg.mozilla.org/integration/mozilla-inbound/rev/c766aa050f0f
 780370,https://hg.mozilla.org/mozilla-central/rev/20a3b0eeb776
 780370,https://hg.mozilla.org/mozilla-central/rev/c766aa050f0f
-780549,comment #4
 780549,Bug 777537
 780549,https://hg.mozilla.org/mozilla-central/rev/58d263c1c3dc
 780549,https://tbpl.mozilla.org/php/getParsedLog.php?id=18301491&tree=Mozilla-Inbound
@@ -2867,15 +2797,12 @@ Bug_id,Fixing_commit_url
 785734,https://hg.mozilla.org/mozilla-central/rev/a0bae754ad5d
 785734,https://hg.mozilla.org/mozilla-central/rev/81675e760c12
 785753,https://hg.mozilla.org/mozilla-central/rev/5e5d1e9a4a76
-785967,comment 0
 785967,https://hg.mozilla.org/mozilla-central/rev/0eebcc79ee05
 786111,https://hg.mozilla.org/mozilla-central/rev/ff4523236513
-786142,comment #32
 786142,https://hg.mozilla.org/mozilla-central/rev/6a38038d6c58
 786142,bug 797304
 786895,bug 754592
 787089,https://hg.mozilla.org/mozilla-central/rev/df1a1a1cfaf4
-787283,comment 0
 787493,https://hg.mozilla.org/mozilla-central/rev/7748dba7f579
 787704,https://hg.mozilla.org/mozilla-central/rev/f8d30ea0974c
 787722,https://hg.mozilla.org/mozilla-central/rev/260d140d627b
@@ -2966,7 +2893,6 @@ Bug_id,Fixing_commit_url
 805814,https://hg.mozilla.org/mozilla-central/rev/7e67e86f81d6
 806031,https://hg.mozilla.org/mozilla-central/rev/718145f0d606
 806483,https://hg.mozilla.org/mozilla-central/rev/ea8d002c4d6d
-806483,comment #7
 808481,https://hg.mozilla.org/mozilla-central/rev/ffcf9d812533
 809064,https://hg.mozilla.org/comm-central/rev/d8c4fc70e423
 809295,https://hg.mozilla.org/mozilla-central/rev/83fe0193339b
@@ -3000,11 +2926,8 @@ Bug_id,Fixing_commit_url
 816994,https://hg.mozilla.org/mozilla-central/rev/746f31757355
 817841,https://hg.mozilla.org/mozilla-central/rev/857e8fdd2d5d
 818241,https://hg.mozilla.org/mozilla-central/rev/944d04257592
-818454,comment #12
 818454,bug 722137
 818454,https://hg.mozilla.org/mozilla-central/rev/d48d6344a9bd
-819635,comment #20
-819635,comment #19
 819635,https://hg.mozilla.org/integration/mozilla-inbound/rev/3030d272e4d0
 819635,http://hg.mozilla.org/mozilla-central/rev/3030d272e4d0
 819775,bug 820180
@@ -3038,7 +2961,6 @@ Bug_id,Fixing_commit_url
 822858,https://hg.mozilla.org/mozilla-central/rev/7ada213f01bd
 822910,https://hg.mozilla.org/mozilla-central/rev/016923079831
 822941,bug 841666
-822941,comment 5
 824856,http://hg.mozilla.org/mozilla-central/rev/4e5f82315a79
 825697,https://hg.mozilla.org/mozilla-central/rev/d4f5562cbabf
 825721,https://hg.mozilla.org/mozilla-central/rev/1b00533cf4ce
@@ -3088,16 +3010,13 @@ Bug_id,Fixing_commit_url
 840263,https://hg.mozilla.org/mozilla-central/rev/979456163be1
 840353,https://hg.mozilla.org/mozilla-central/rev/40b4bc5cac71
 840882,bug 843739
-842255,comment 11
 842300,https://hg.mozilla.org/mozilla-central/rev/4db85af71a2c
 842687,https://hg.mozilla.org/mozilla-central/rev/b12d2ab1a3e2
 842687,https://hg.mozilla.org/mozilla-central/rev/1641778f1619
 843434,https://hg.mozilla.org/mozilla-central/rev/8d7a31fbb879
-843829,comment #25
 844832,https://hg.mozilla.org/mozilla-central/rev/3e1d43059729
 846615,https://hg.mozilla.org/mozilla-central/rev/88517161a93d
 846615,https://hg.mozilla.org/mozilla-central/rev/d5ed7f560d5f
-847606,comment #8
 847606,bug 868437
 847606,Bug 868437
 848237,https://hg.mozilla.org/mozilla-central/rev/5de9e9db23c5
@@ -3169,7 +3088,6 @@ Bug_id,Fixing_commit_url
 876878,https://hg.mozilla.org/mozilla-central/rev/19d9842325b2
 877287,https://hg.mozilla.org/mozilla-central/rev/f98048e391b7
 878703,https://hg.mozilla.org/mozilla-central/rev/23a34163cd70
-879139,comment 1
 879139,https://ftp.mozilla.org/pub/mozilla.org/firefox/nightly/2013/06/2013-06-23-mozilla-central-debug/firefox-24.0a1.en-US.debug-linux-x86_64.txt
 879139,https://ftp.mozilla.org/pub/mozilla.org/firefox/nightly/2013/06/2013-06-22-mozilla-central-debug/firefox-24.0a1.en-US.debug-linux-x86_64.txt
 879139,bug 883416
@@ -3239,7 +3157,6 @@ Bug_id,Fixing_commit_url
 893684,https://hg.mozilla.org/releases/mozilla-aurora/rev/b3aa850f03fc
 893684,https://hg.mozilla.org/releases/mozilla-beta/rev/aa1e0d96de39
 894137,bug 905036
-894137,comment 19
 894215,https://hg.mozilla.org/mozilla-central/rev/131a40749cb9
 894215,https://hg.mozilla.org/mozilla-central/rev/4df8820be2aa
 894215,https://hg.mozilla.org/mozilla-central/rev/7f98616d7914
@@ -3272,7 +3189,6 @@ Bug_id,Fixing_commit_url
 910139,https://hg.mozilla.org/mozilla-central/rev/0a896a85ce0c
 910375,https://hg.mozilla.org/mozilla-central/rev/e4a85d4d3d7c
 910438,http://hg.mozilla.org/projects/nss/rev/d29898e0981c
-910881,comment #31
 911547,https://hg.mozilla.org/mozilla-central/rev/80c7fa20601d
 911547,https://hg.mozilla.org/mozilla-central/rev/461927a6e020
 911707,http://hg.mozilla.org/mozilla-central/rev/dcd4c1b60d7f
@@ -3311,7 +3227,6 @@ Bug_id,Fixing_commit_url
 925896,https://hg.mozilla.org/mozilla-central/rev/30c52c82e37b
 926361,https://hg.mozilla.org/mozilla-central/rev/77a86dcd14d8
 927579,bug 962548
-928187,comment 0
 928187,bug 881832
 929261,https://hg.mozilla.org/mozilla-central/rev/1e0352fd12d8
 930281,https://hg.mozilla.org/mozilla-central/rev/e93c7c45903f
@@ -3435,8 +3350,7 @@ Bug_id,Fixing_commit_url
 987794,https://hg.mozilla.org/mozilla-central/rev/74871c4df0a7
 988106,https://hg.mozilla.org/mozilla-central/rev/475ee7cda2d1
 988698,https://hg.mozilla.org/mozilla-central/rev/5627301b95de
-988719,Bug 991981
-988719,comment 10
+988719,https://hg.mozilla.org/mozilla-central/rev/57b0932e2f06
 989183,https://hg.mozilla.org/mozilla-central/rev/651662279e95
 989210,https://hg.mozilla.org/mozilla-central/rev/0623b2fe08c8
 989994,https://hg.mozilla.org/mozilla-central/rev/e6eeddc2625a
@@ -3451,7 +3365,6 @@ Bug_id,Fixing_commit_url
 991533,https://hg.mozilla.org/mozilla-central/rev/b11cb148e3b2
 991533,https://hg.mozilla.org/mozilla-central/rev/8c5ed45ffddb
 991981,https://hg.mozilla.org/mozilla-central/rev/57b0932e2f06
-992274,comment 21
 992968,https://hg.mozilla.org/mozilla-central/rev/1a12d31c2289
 993546,https://hg.mozilla.org/mozilla-central/rev/00b716b32cda
 994337,https://hg.mozilla.org/mozilla-central/rev/3d1610589d6a
@@ -3464,8 +3377,7 @@ Bug_id,Fixing_commit_url
 995679,https://hg.mozilla.org/mozilla-central/rev/57b0932e2f06
 995704,https://hg.mozilla.org/mozilla-central/rev/289e653a7061
 995704,https://hg.mozilla.org/mozilla-central/rev/6990146cd895
-995704,comment 31
-995816,bug 995817
+995816,https://hg.mozilla.org/mozilla-central/rev/35e57f348ddf
 995817,https://hg.mozilla.org/mozilla-central/rev/35e57f348ddf
 996536,https://hg.mozilla.org/mozilla-central/rev/4441b7c2b10b
 996715,https://hg.mozilla.org/mozilla-central/rev/9d8a5c8d8328
@@ -3473,8 +3385,3 @@ Bug_id,Fixing_commit_url
 997795,https://hg.mozilla.org/mozilla-central/rev/ba276673a564
 999274,https://hg.mozilla.org/mozilla-central/rev/610c64ec2d47
 999651,https://hg.mozilla.org/mozilla-central/rev/57b0932e2f06
-1011354,https://hg.mozilla.org/releases/mozilla-aurora/rev/74ab91e63ea5
-1011354,https://hg.mozilla.org/releases/mozilla-beta/rev/ac926de428c3
-1011354,https://hg.mozilla.org/releases/mozilla-b2g32_v2_0/rev/9217d9e09d74
-1011354,https://hg.mozilla.org/releases/mozilla-esr31/rev/cf02f2af03b9
-1011354,https://hg.mozilla.org/releases/mozilla-b2g30_v1_4/rev/a5757a6fc64c

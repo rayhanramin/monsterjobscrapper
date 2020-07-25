@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 import csv
 import time
 
-csv_file = open('bugfixing_commits.csv', 'w')
+csv_file = open('bugfixing_commits1.csv', 'w', newline ='')
 csv_writer = csv.writer(csv_file)
 csv_writer.writerow(['Bug_id', 'Fixing_commit_url'])
 
