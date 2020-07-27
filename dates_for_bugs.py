@@ -10,10 +10,13 @@ csv_writer.writerow(['Bug_id', 'creationdate','resolutiondate'])
 
 url = "https://bugzilla.mozilla.org/show_bug.cgi?id="
 
-with open('bugfixing_commits1.csv','r') as in_file:
+with open('bugfixing_commits_rev_ids.csv','r') as in_file:
+    next(csv.reader(in_file))
     for i in csv.reader(in_file):
+        bug_ids = i[0]
         URL = url + str(i[0].strip('\n'))
         print(URL)
+        #exit(1)
         time.sleep(5)
         page = requests.get(URL)
 
@@ -23,3 +26,19 @@ with open('bugfixing_commits1.csv','r') as in_file:
             continue
 
         soup = BeautifulSoup(page.content,'html.parser')
+        span = soup.find('span', id = 'field-value-status_summary')
+        if span is None:
+            continue
+
+        dates = span.find_all('span', class_ = 'rel-time')
+        if None in dates:
+            continue
+
+        op_date = time.strftime("%Y-%m-%d %H:%M:%S +0000",time.gmtime(int(dates[0].get('data-time'))))
+        cl_date = time.strftime("%Y-%m-%d %H:%M:%S +0000",time.gmtime(int(dates[1].get('data-time'))))
+        print(op_date)
+        print(cl_date)
+        csv_writer.writerow([bug_ids, op_date,cl_date])
+
+in_file.close()
+csv_file.close()
