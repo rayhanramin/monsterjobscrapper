@@ -4,17 +4,17 @@ import csv
 import requests
 import time
 
-csv_file = open('opening_closing_bug_dates.csv', 'w', newline ='')
+csv_file = open('opening_closing_bug_dates1.csv', 'w', newline ='')
 csv_writer = csv.writer(csv_file)
 csv_writer.writerow(['Bug_id', 'creationdate','resolutiondate'])
 
 url = "https://bugzilla.mozilla.org/show_bug.cgi?id="
 
-with open('bugfixing_commits_rev_ids.csv','r') as in_file:
-    next(csv.reader(in_file))
-    for i in csv.reader(in_file):
-        bug_ids = i[0]
-        URL = url + str(i[0].strip('\n'))
+with open('new_firefox_bugs.txt','r') as in_file:
+    #next(csv.reader(in_file))
+    for i in in_file:
+        bug_ids = i.strip('\n')
+        URL = url + bug_ids
         print(URL)
         #exit(1)
         time.sleep(5)
